@@ -1,0 +1,22 @@
+{
+    "pools": [
+        {
+			"name": "main",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "minecraft:ender_pearl"
+                },
+                {
+                    "type": "item",
+                    "name": "minecraft:ender_eye"
+                },
+                {
+                    "type": "empty",
+                    "weight": 3
+                }
+            ]
+        }
+    ]
+}

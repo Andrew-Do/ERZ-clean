@@ -1,0 +1,27 @@
+[15:51:42] [main/INFO]: Setting user: Player527
+[15:51:44] [main/INFO]: LWJGL Version: 2.9.4
+[15:51:46] [main/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:EmberRootZoo
+[15:51:49] [main/WARN]: Missing sound for event: emberroot:owl.hoot_single
+[15:51:49] [main/WARN]: Missing sound for event: emberroot:owl.hoot_double
+[15:51:49] [main/WARN]: Missing sound for event: emberroot:owl.hurt
+[15:51:49] [main/WARN]: Missing sound for event: emberroot:direwolf.hurt
+[15:51:49] [main/WARN]: Missing sound for event: emberroot:direwolf.howl
+[15:51:49] [main/WARN]: Missing sound for event: emberroot:direwolf.growl
+[15:51:49] [main/WARN]: Missing sound for event: emberroot:direwolf.death
+[15:51:49] [main/WARN]: Missing sound for event: emberroot:spiritambient
+[15:51:49] [main/WARN]: Missing sound for event: emberroot:spirithurt
+[15:51:49] [main/WARN]: Missing sound for event: emberroot:staffcast
+[15:51:49] [main/WARN]: Missing sound for event: emberroot:bossambient
+[15:51:49] [main/WARN]: Missing sound for event: emberroot:bosshurt
+[15:51:49] [main/WARN]: Missing sound for event: emberroot:bossdeath
+[15:51:49] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[15:51:50] [Thread-5/INFO]: Initializing LWJGL OpenAL
+[15:51:50] [Thread-5/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[15:51:50] [Thread-5/INFO]: OpenAL initialized.
+[15:51:50] [Sound Library Loader/INFO]: Sound engine started
+[15:51:53] [main/INFO]: Created: 512x512 textures-atlas
+[15:51:54] [main/INFO]: Narrator library for x64 successfully loaded
+[15:51:54] [Realms Notification Availability checker #1/INFO]: Could not authorize you against Realms server: Invalid session id
+[15:51:55] [main/INFO]: Stopping!
+[15:51:55] [main/INFO]: SoundSystem shutting down...
+[15:51:56] [main/WARN]: Author: Paul Lamb, www.paulscode.com

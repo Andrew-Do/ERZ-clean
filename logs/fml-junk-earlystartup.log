@@ -1,0 +1,89 @@
+[15:51:41] [main/INFO] [GradleStart]: Extra: []
+[15:51:41] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/A/.gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[15:51:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:51:41] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:51:41] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[15:51:41] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[15:51:47] [Forge Version Check/INFO] [ForgeVersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[15:51:47] [Forge Version Check/DEBUG] [ForgeVersionCheck]: [forge] Received version check data:
+{
+  "homepage": "http://files.minecraftforge.net/maven/net/minecraftforge/forge/",
+  "promos": {
+    "1.1-latest": "1.3.2.6",
+    "1.10-latest": "12.18.0.2000",
+    "1.10.2-latest": "12.18.3.2511",
+    "1.10.2-recommended": "12.18.3.2185",
+    "1.11-latest": "13.19.1.2199",
+    "1.11-recommended": "13.19.1.2189",
+    "1.11.2-latest": "13.20.1.2588",
+    "1.11.2-recommended": "13.20.1.2386",
+    "1.12-latest": "14.21.1.2443",
+    "1.12-recommended": "14.21.1.2387",
+    "1.12.1-latest": "14.22.1.2485",
+    "1.12.1-recommended": "14.22.1.2478",
+    "1.12.2-latest": "14.23.5.2854",
+    "1.12.2-recommended": "14.23.5.2854",
+    "1.13.2-latest": "25.0.219",
+    "1.14.2-latest": "26.0.63",
+    "1.14.3-latest": "27.0.60",
+    "1.14.4-latest": "28.2.23",
+    "1.14.4-recommended": "28.2.0",
+    "1.15-latest": "29.0.4",
+    "1.15.1-latest": "30.0.51",
+    "1.15.2-latest": "31.2.48",
+    "1.15.2-recommended": "31.2.0",
+    "1.16.1-latest": "32.0.108",
+    "1.16.2-latest": "33.0.61",
+    "1.16.3-latest": "34.1.42",
+    "1.16.3-recommended": "34.1.0",
+    "1.16.4-latest": "35.1.37",
+    "1.16.4-recommended": "35.1.4",
+    "1.16.5-latest": "36.0.21",
+    "1.5.2-latest": "7.8.1.738",
+    "1.5.2-recommended": "7.8.1.737",
+    "1.6.1-latest": "8.9.0.775",
+    "1.6.2-latest": "9.10.1.871",
+    "1.6.2-recommended": "9.10.1.871",
+    "1.6.3-latest": "9.11.0.878",
+    "1.6.4-latest": "9.11.1.1345",
+    "1.6.4-recommended": "9.11.1.1345",
+    "1.7.10-latest": "10.13.4.1614",
+    "1.7.10-latest-1.7.10": "10.13.2.1343",
+    "1.7.10-recommended": "10.13.4.1558",
+    "1.7.2-latest": "10.12.2.1147",
+    "1.7.2-recommended": "10.12.2.1121",
+    "1.8-latest": "11.14.4.1577",
+    "1.8-recommended": "11.14.4.1563",
+    "1.8.8-latest": "11.15.0.1655",
+    "1.8.9-latest": "11.15.1.2318",
+    "1.8.9-recommended": "11.15.1.1722",
+    "1.9-latest": "12.16.0.1942",
+    "1.9-recommended": "12.16.1.1887",
+    "1.9.4-latest": "12.17.0.2051",
+    "1.9.4-recommended": "12.17.0.1976",
+    "latest-1.7.10": "10.13.2.1343"
+  }
+}
+[15:51:47] [Forge Version Check/INFO] [ForgeVersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2854
+[15:51:47] [Forge Version Check/INFO] [ForgeVersionCheck]: [emberroot] Starting version check at https://raw.githubusercontent.com/PrinceOfAmber/ERZ/master/update.json
+[15:51:47] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 100809000 nanos
+[15:51:47] [Forge Version Check/DEBUG] [ForgeVersionCheck]: [emberroot] Received version check data:
+
+{
+  "homepage": "https://minecraft.curseforge.com/projects/emberroot-zoo",
+  "promos": {
+    "1.12.2-latest": "1.3.9",
+    "1.12.2-recommended": "1.3.9"
+  }
+  ,"1.12.2":{
+	"1.3.2":"Fixed the Sprout mobs spawning insane amounts.  Golems will no longer shoot through walls, their projectiles now have block collision.  Guardian of Sprites will no longer bump and push players around in creative.  Guardian of Sprites will now despawn in peaceful mode.  Fixed owls spamming eggs; they now have laying rates increased to between 500 and 900 seconds randomly (still only on leaves).   Lingering potions spawned from certain rainbow slimes no longer last forever, also they make the potion splash sound when starting.  Fixed Timber Wolves duplicating on world reload.  Fixed Timber Wolves spawning way too much.  Fixed timber wolves dealing zero damage.  Temporarily disabled the taming and breeding of Timber Wolves since it was buggy (will revisit in later update.)	 Many more config flags added to control mob behavior.   "
+    ,"1.3.3":"Fixed the green flying Sprites so that they do despawn as normal (previously they would NEVER despawn, making it look like they were multiplying or spawning in mass numbers).  Sprites now only spawn in darkness, instead of ignoring light levels.   Fixed some flying mobs and the camo Slimes not working with the spawn rate configs.  Reduced attack frequency of Dire Wolf.  	 Fixed issues with the mod using biomeWhitelist configs not affecting some mobs.   Changed several default config values changed for balance reasons; does not change existing config files (Attack damage and health reduced for several mobs; some default spawn rates reduced).  Changed timberwolf egg color slightly so it stands out more.  Added spawn eggs to a creative tab.  Fixed Mini enderman not loading its loot table.    Bigger sprites are now a different color to help tell the difference from smaller ones.  Fixed Sprites using hardcoded 3.0 damage instead of reading from config.  Sprites will no longer attack creative mode players and cause them knockback.  	Guardian of Sprites should no longer forget to drop Totem of Undying.  "
+	,"1.3.4":"Fixed Fallen Knights doing zero attack damage; also now they never spawn with a bow.  Added movement speed to the config file for many mobs.  Added Turkish tr_TR.lang (thanks RoCoKo). "
+	,"1.3.5":"Updated mob AI registration (moved from constructor to init) which should reduce AI breaks such as spinning on ledges and other navigation issues.  Fixed fallen mounts doing zero damage and just nudging the player around.  Fallen Knights are more likely to dismount when in combat in order to be more deadly.  New Fallen Knight config ChanceBow, defaults to 40% chance of having a bow instead of melee.  "
+	,"1.3.6":"Fixed a server crash when you tame a Fairy with glowstone.   Fixed the loot table for Toxic Witch failing to load.  Fixed Frozen Skeleton causing errors when interacting with Mob Grinders / Fake Players.  Frozen Skeleton no longer has Zombie sounds.  "
+	,"1.3.7":"Wither witch has new configs maxCats and minCats to control pet creation at spawn time.  Fixed an AI priority conflict with Fallen Knight.   Fixed Fallen Knight getting dismounted when mount tries to attack.   Removed ChanceBow for Fallen Knight (this was not in original release, was added recently and never worked right), now mob is always melee.  "
+	,"1.3.8":"Minimum forge version is now 14.23.1.2594.  Greatly reduced movement speed of fallen knights."
+	,"1.3.9":"Creature loot_tables registered publicly so they are compatible with zenscript mods such as LootTweaker.  "
+	}
+ }
+[15:51:47] [Forge Version Check/INFO] [ForgeVersionCheck]: [emberroot] Found status: OUTDATED Target: 1.3.9
