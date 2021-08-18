@@ -4,6 +4,8 @@ Bugfixes/adding features for commission for [ROTN modpack](https://www.curseforg
 - Added config files to control various stats (HP, DMG, projectile speed)
 - Modified boss mob to fly faster the lower it's health becomes.
 
+MIT License.
+
 ---
 
 # EmberRootZoo [![](http://cf.way2muchnoise.eu/273711.svg)](https://minecraft.curseforge.com/projects/emberroot-zoo) [![](http://cf.way2muchnoise.eu/versions/273711.svg)](https://minecraft.curseforge.com/projects/emberroot-zoo)
